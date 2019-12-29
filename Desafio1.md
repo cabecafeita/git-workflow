@@ -21,3 +21,5 @@ Agora, com o repositório criado, podemos criar nosso primeiro arquivo para faze
 Para saber mais sobre os comandos e sobre o fluxo simplificado de git, podemos começar por [esse](https://github.com/UnbDroid/AprendendoGithub/wiki/Basico) capítulo do eBook (que está no Github!) e por [esse](https://www.atlassian.com/br/git/tutorials/saving-changes) tutorial do Bitbucket (mais especificamente as seções "Como criar um repositório" e "Como salvar alterações"), mas pesquise em outros sites também! Além disso, temos o [pdf da Ana] nos anexos.
 
 Faça um resumo no seu `README.md` do que você aprendeu e o que achou mais importante. Depois, mande seu repositório criado no canal #code-review do Slack para que todas as pessoas possam ver e compartilhar conhecimento ;)
+
+Qualquer dúvida, só chamar!
